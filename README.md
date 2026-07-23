@@ -25,9 +25,9 @@
  <tr>
    <th>
      $\colour{#111e4a}{\textsf{PEOPLE WHO SHIP}}$ <br>
-     $\colour{#2c3967}{\textsf{ loyalteeth,funnybunny}}$ <br>
-     $\colour{#3c5ed5}{\textsf{ bunnydoll,google,funnygummy,bowtie,frogdoll, jesterdoll, etc}}$ <br>
-     $\colour{#2c3967}{\textsf{ BASIC DNI CRITERIA}}$ <br>
-     $\colour{#111e4a}{\textsf{ SHIP/SYSTEM DISCOURSE.}}$ <br>
-     $\colour{#3c5ed5}{\textsf{ DNC I'm begging u.}}$ <br>
-     $\colour{#2c3967}{\textsf{ Thank you so much }}$ <br>
+     $\colour{#2c3967}{\textsf{loyalteeth,funnybunny}}$ <br>
+     $\colour{#3c5ed5}{\textsf{bunnydoll,google,funnygummy,bowtie,frogdoll, jesterdoll, etc}}$ <br>
+     $\colour{#2c3967}{\textsf{BASIC DNI CRITERIA}}$ <br>
+     $\colour{#111e4a}{\textsf{SHIP/SYSTEM DISCOURSE.}}$ <br>
+     $\colour{#3c5ed5}{\textsf{DNC I'm begging u.}}$ <br>
+     $\colour{#2c3967}{\textsf{Thank you so much }}$ <br>
